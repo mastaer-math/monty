@@ -1,1 +1,2 @@
-0x19. C - Stacks, Queues - LIFO, FIFO file creation
+C - Stacks, Queues - LIFO, FIFO
+C, Group project Alorithms amd Data structures
